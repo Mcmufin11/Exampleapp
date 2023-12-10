@@ -48,7 +48,7 @@ const HeroSection = () => {
               </span>
             </h1>
             <p className="text-gray-300 pt-8 text-base sm:text-lg mb-6 lg:text-xl">
-              Slide down to know more about me! 
+              Slide down to know more about me! s
             </p>
               <Link
                 href="#projects" 
